@@ -1,0 +1,2 @@
+ Enter leaf node values (space-separated, e.g., 3 5 2 9 12 5 23 3): 3 5 2 9 12 5 23 3
+ The optimal value is: 5
