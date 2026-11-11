@@ -1,0 +1,5 @@
+Enter the starting value: 3.0
+Enter the step size: 0.1
+Enter maximum iterations: 100
+Best position = 0.0
+Best value = 10.0
